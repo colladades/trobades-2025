@@ -21,7 +21,6 @@ Les trobades se celebren cada dimecres cada 15 dies, de 18 a 20 h. Aquí tens le
 
 Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](https://comunitat.canodrom.barcelona/assemblies/comunitat/f/1651/meetings/2936)!
 
-Consulta el nostre [tauler col·laboratiu]() d'inspiració, col·laboració i prototipat a PenPot!
 
 ### Memòria trobada de la Colla del 7 de maig:
 
@@ -125,7 +124,7 @@ Consulta el nostre [tauler col·laboratiu]() d'inspiració, col·laboració i pr
 - [Chart.js (JavaScript)](https://www.chartjs.org/)
 - [d3.js (JavaScript)](https://d3js.org/)
 
-### ✨ Asistides por IA oberta:
+### ✨ Assistides per models oberts de IA:
 - [Coconut (Hugging Face Spaces)](https://huggingface.co/spaces/faizhalas/coconut)*
 - [GitHub Notebooks on the fly (Hugging Face Spaces*)](https://huggingface.co/spaces/marimo-team/github-notebooks-on-the-fly)
 - [Data Analysis Bot (Hugging Face Spaces)](https://huggingface.co/spaces/Mummia-99/Data_Anaysis_Bot)*
