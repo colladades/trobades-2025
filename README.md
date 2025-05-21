@@ -65,18 +65,17 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 > *Quins problemes de la ciutat es podrien atendre amb dades obertes?, Quins reptes o problemes identifiquen sobre polítiques públiques de dades obertes o basades en aquestes dades?, Quines organitzacions coneixen que podríem convidar o donar suport?*
 - (Correlación entre ingresos y precio del alquiler por municipio
 - Odour Collect (d-noses) - Votado
-- Croniques de la Calor (OpenSystems) - Votado
+- 🏅 Votado: [Croniques de la Calor (OpenSystems)](https://www.ub.edu/opensystems/projectes/croniques-de-la-calor/) / [Open Data BCN Temperaturas Mensuales](https://opendata-ajuntament.barcelona.cat/data/es/dataset/temperatures-hist-bcn)
 - Mapeo de estaciones de bicis que nunca funcionan
-- Zonas de Barcelona donde hay más agresiones a mujeres y características - Votado
-- Renfe Rodalies, Incidencias, # de vagones vd # de personas) - Votado
-- Espacios populares perdidos - Votado
-- Gentrificació - Movilidad residencial, urbana, suburbana, periferia - Votado
+- 🏅 Votado: Zonas de Barcelona donde hay más agresiones a mujeres y características
+- 🏅 Votado: [Renfe Rodalies](https://rodalies.gencat.cat/ca/sobre-rodalies/linies-i-estacions/servei_rodalia_barcelona/), [Incidencias](https://analisi.transparenciacatalunya.cat/?sortBy=relevance&pageSize=20&q=rodalies&page=1), [# estaciones](https://data.renfe.com/dataset/estaciones-rodalies-barcelona), # de vagones vd # de personas)
+- 🏅 Votado: Espacios populares perdidos
+- 🏅 Votado: Gentrificació - Movilidad residencial, urbana, suburbana, periferia
 - Mapear los tipos de servicios donde vive población racializada - Votado
-- Mapeo de discursos / Contenidos de redes Xenófobos, racistas, en Barcelona - Votado
+- 🏅 Votado: Mapeo de discursos / Contenidos de redes Xenófobos, racistas, en Barcelona ([YouTube Data Tools](https://ytdt.digitalmethods.net/) / Otras redes, desde [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer))
 - Alquiler turístico
 - Pocs espacis verds, Pocs locals per associacions, ascensores estaciones de metro
-- Rastreas importación / exportación de armas entre israel y españa - Votado 
-- Mapear zonas de detenciones de ICE
+- 🏅 Votado: Rastrear [importación / exportación de armas](https://oec.world/en/profile/bilateral-product/weapons-1993/reporter/esp#bespoke-title-1135) entre Israel y España
 
 
 
