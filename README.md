@@ -44,6 +44,7 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 * [The Shape of Slavery (The Pudding)](https://pudding.cool/2017/01/shape-of-slavery/)
 * [Tierra común (descolonizar los datos)](https://www.tierracomun.net/)
 * [#Cuentalo (BSC)](https://proyectocuentalo.org/)
+* [Dollars for Docs](https://projects.propublica.org/docdollars/)
 
 
 #### Datasets:
