@@ -60,6 +60,7 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 * [Fatal Force (Washington Post)](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
 * Decidim Barcelona Open Data
 * [Civio (beneficiarios IMV, decretos - ley, cárceles)](https://civio.es/)
+* [Base de datos el ciclo económico militar](https://database.centredelas.org/banca-armada-es)
 
 
 #### Problemes:
@@ -101,6 +102,7 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 - [Dedupliate (DMI)](https://tools.digitalmethods.net/beta/deduplicate/)
 - [Beautiful Soup (Python)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Google Sheets (Import Functions)](https://support.google.com/docs/answer/12188454?hl=en)*
+- [Instant Data Scrapper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?pli=1)
 
 
 ### 🧐 Neteja, transformació i exploració:
