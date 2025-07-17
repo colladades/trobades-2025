@@ -137,6 +137,7 @@ Sessió pràctica. Entrenament de feed de compte de TikTok, YouTube i Instagram 
 - [Zeehaven](https://publicdatalab.github.io/zeehaven/)
 - [whisper-youtube](https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb)
 - [TextAnalysis (Bernhard Rieder)](https://labs.polsys.net/tools/textanalysis/)
+- [postprocesador-redes (Signa_Lab ITESO)](https://github.com/signalab/postprocesador-redes)
 
 ### 📊 Visualitza:
 - [Raw Graphs](https://app.rawgraphs.io/)
@@ -149,7 +150,7 @@ Sessió pràctica. Entrenament de feed de compte de TikTok, YouTube i Instagram 
 - [SveltePlot (JavaScript)](https://svelteplot.dev/getting-started)
 - [Chart.js (JavaScript)](https://www.chartjs.org/)
 - [d3.js (JavaScript)](https://d3js.org/)
-- [Voyan Tools](https://voyant-tools.org/)
+- [Voyant Tools](https://voyant-tools.org/)
 
 
 ### ✨ Assistides per models oberts de IA:
