@@ -12,12 +12,21 @@ Convidem a tothom, independentment del seu nivell tècnic, a presentar idees, de
 
 
 ## Trobades 2025 a Canòdrom:
-Les trobades se celebren cada dimecres cada 15 dies, de 18 a 20 h. Aquí tens les dates:
+El mes de juny, les trobades es fan cada dimecres cada 15 dies, de 18 a 20 h:
 
 - Dimecres **7 de maig** | Sala Margarita Salas 
 - Dimecres **21 de maig** | Sala Margarita Salas 
 - Dimecres **4 de juny** | Sala Margarita Salas 
 - Dimecres **18 de juny** | Sala Margarita Salas
+
+El mes de juliol, les trobades es fan dijous de cada setmana, de 18 a 20 h:
+
+- Dijous **3 de juliol** | Sala Margarita Salas 
+- Dijous **10 de juliol** | Sala Margarita Salas 
+- Dijous **17 de juliol** | Sala Margarita Salas (Sessió cancel·lada)
+- Dijous **24 de juliol** | Sala Margarita Salas
+- Dijous **31 de juliol** | Sala Margarita Salas
+
 
 Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](https://comunitat.canodrom.barcelona/assemblies/comunitat/f/1651/meetings/2936)!
 
