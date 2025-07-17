@@ -44,7 +44,6 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 * [The Shape of Slavery (The Pudding)](https://pudding.cool/2017/01/shape-of-slavery/)
 * [Tierra común (descolonizar los datos)](https://www.tierracomun.net/)
 * [#Cuentalo (BSC)](https://proyectocuentalo.org/)
-* [Dollars for Docs](https://projects.propublica.org/docdollars/)
 
 
 #### Datasets:
@@ -60,7 +59,6 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 * [Fatal Force (Washington Post)](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
 * Decidim Barcelona Open Data
 * [Civio (beneficiarios IMV, decretos - ley, cárceles)](https://civio.es/)
-* [Base de datos el ciclo económico militar](https://database.centredelas.org/banca-armada-es)
 
 
 #### Problemes:
@@ -80,15 +78,27 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 - 🏅 Votado: Rastrear [importación / exportación de armas](https://oec.world/en/profile/bilateral-product/weapons-1993/reporter/esp#bespoke-title-1135) entre Israel y España
 
 
-
 ### Memòria trobada de la Colla del 21 de maig:
-(Properament, [inscriu-te!](https://comunitat.canodrom.barcelona/assemblies/comunitat/f/1651/meetings/2936))
+Sessió pràctica. Revisió de descàrregues de vídeos de YouTube amb termes més generals i armat inicial de diccionari amb termes i exemples sobre discursos d'odi cap a subjectes racialitzats. Scraping de dades sobre festivals de música. Creació de repositoris a GitHub de cada projecte.
 
 ### Memòria trobada de la Colla del 4 de juny:
-(Properament)
+Sessió pràctica. Revisió de descàrregues de vídeos de YouTube amb termes més generals i armat inicial de diccionari amb termes i exemples sobre discursos d'odi cap a subjectes racialitzats. Scraping de dades sobre festivals de música. Creació de repositoris a GitHub de cada projecte.
 
 ### Memòria trobada de la Colla del 18 de juny:
-(Properament)
+Sessió pràctica. Revisió de ferramentes de descàrrega, exploració i dades i visualització de dades (Zeeschuimer, YouTube Data Tools, OpenRefine, RAWGraphs, etc.)
+
+### Memòria trobada de la Colla del 03 de juliol:
+Planejació de sessions de juliol, projectes clau i tallers.
+
+### Memòria trobada de la Colla del 10 de juliol:
+Sessió pràctica. Entrenament de feed de compte de TikTok, YouTube i Instagram orientats a joves a Barcelona i discussió col·lectiva sobre discursos, canals i altres troballes identificades Actualització de diccionari i visualització de xarxes de co-comentaris a YouTube amb Youtube Data Tools i Gephi.
+
+### Memòria trobada de la Colla del 17 de juliol
+(Sessió cancel·lada)
+
+### Memòria trobada de la Colla del 31 de juliol:
+(Properament, [inscriu-te!](https://comunitat.canodrom.barcelona/assemblies/comunitat/f/1651/meetings/2936))
+
 
 
 
@@ -102,7 +112,8 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 - [Dedupliate (DMI)](https://tools.digitalmethods.net/beta/deduplicate/)
 - [Beautiful Soup (Python)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Google Sheets (Import Functions)](https://support.google.com/docs/answer/12188454?hl=en)*
-- [Instant Data Scrapper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?pli=1)
+- [SearchEnginesBookmarklet (ex Google Bookmarklets)](https://medialab.sciencespo.fr/en/tools/google-bookmarklets/)
+- [4CAT (DMI)](https://github.com/digitalmethodsinitiative/4cat)
 
 
 ### 🧐 Neteja, transformació i exploració:
@@ -114,6 +125,9 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 - [Google Colab](https://colab.research.google.com/)*
 - [RStudio](https://posit.co/download/rstudio-desktop/)
 - [Polars (Python)](https://pola.rs/)
+- [Zeehaven](https://publicdatalab.github.io/zeehaven/)
+- [whisper-youtube](https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb)
+- [TextAnalysis (Bernhard Rieder)](https://labs.polsys.net/tools/textanalysis/)
 
 ### 📊 Visualitza:
 - [Raw Graphs](https://app.rawgraphs.io/)
@@ -126,15 +140,15 @@ Inscriu-te a la propera trobada a la [plataforma de Comunitat de Canòdrom](http
 - [SveltePlot (JavaScript)](https://svelteplot.dev/getting-started)
 - [Chart.js (JavaScript)](https://www.chartjs.org/)
 - [d3.js (JavaScript)](https://d3js.org/)
+- [Voyan Tools](https://voyant-tools.org/)
+
 
 ### ✨ Assistides per models oberts de IA:
 - [Coconut (Hugging Face Spaces)](https://huggingface.co/spaces/faizhalas/coconut)*
 - [GitHub Notebooks on the fly (Hugging Face Spaces*)](https://huggingface.co/spaces/marimo-team/github-notebooks-on-the-fly)
 - [Data Analysis Bot (Hugging Face Spaces)](https://huggingface.co/spaces/Mummia-99/Data_Anaysis_Bot)*
 - [Agent Data Analysis (Hugging Face Spaces)](https://huggingface.co/spaces/m-ric/agent-data-analyst)*
-- [Hugging Chat](https://huggingface.co/chat/)*
-
-
+- [GeminiCLI](https://github.com/google-gemini/gemini-cli)*
 
 ### 🧰 Altres eines útils:
 - [I Want Hue (DMI)](https://medialab.github.io/iwanthue/)
