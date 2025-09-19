@@ -1,4 +1,4 @@
-# Minuta
+# Minuta Trobada 03 juliol 2025
 
 1. Dar una dimensión política a la Colla de les Dades, de la siguiente forma:
   - Compilar una lista de datasets pública que queremos abierta y que sirva para llevar una agenda pública de datos abiertas
