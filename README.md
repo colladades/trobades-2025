@@ -18,7 +18,7 @@ Inscriu-te a la [plataforma de Comunitat del Canòdrom](https://comunitat.canodr
 Als mesos de setembre a desembre, les trobades es fan cada dijous cada 15 dies, de 18 a 20 h:
 
 - Dijous **18 de setembre** | Sala Margarita Salas 
-- Dijous **2 d'octubre** | Sala Margarita Salas 
+- Dijous **2 d'octubre** | Online 
 - Dijous **16 d'octubre** | Sala Margarita Salas
 - Dijous **30 d'octubre** | Sala Margarita Salas
 - Dijous **13 de novembre** | Sala Margarita Salas
